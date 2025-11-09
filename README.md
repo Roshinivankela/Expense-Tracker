@@ -11,7 +11,7 @@ This app helps users manage their finances by tracking income and expenses in re
 
 👉 Click here to view the live project
 
-( https://roshinivankela.github.io/to-do-list/)
+ (https://roshinivankela.github.io/Expense-Tracker/)
 
 ---
 
